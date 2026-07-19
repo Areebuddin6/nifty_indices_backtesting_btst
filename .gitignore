@@ -1,0 +1,9 @@
+#cache_foldes
+market_data_cache/
+nifty_historical_snapshots/
+
+#nifty report files
+report_NIFTY_50.csv
+report_NIFTY_100.csv
+report_NIFTY_250.csv
+report_NIFTY_500.csv
